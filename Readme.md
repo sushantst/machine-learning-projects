@@ -1,11 +1,16 @@
-Machine Learning Projects
+#Machine Learning Projects
+
+
 This repository contains a collection of machine learning projects that I have completed. Each project is contained in its own directory and includes a README file describing the project, the data used, and the techniques and models used to solve the problem.
 
-Projects
+#Projects
+
+
 Project 1: Predicting diabetes patient using Support Vector Machine
 Project 2: Quality of transmission prediction of RoFSO using Machine Learning.
 
-Dependencies
+#Dependencies
+
 All projects were implemented using Python 3 and require the following libraries:
 
 NumPy
