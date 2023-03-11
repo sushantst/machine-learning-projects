@@ -1,4 +1,4 @@
-#Machine Learning Projects
+**Machine Learning Projects**
 
 
 This repository contains a collection of machine learning projects that I have completed. Each project is contained in its own directory and includes a README file describing the project, the data used, and the techniques and models used to solve the problem.
